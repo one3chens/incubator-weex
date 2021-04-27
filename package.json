@@ -83,7 +83,7 @@
     "danger": "danger"
   },
   "dependencies": {
-    "autoprefixer": "^6.7.7",
+    "autoprefixer": "^10.0.0",
     "animationjs": "^0.1.5",
     "blink-diff": "~1.0.12",
     "core-js": "^2.4.0",
